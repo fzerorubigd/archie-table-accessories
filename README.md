@@ -12,12 +12,15 @@ Archie-Cop-Holder
 
 This is a simple cup holder, IT IS DIFFERENT than the original that comes with Archie table. 
 
+<img src="images/archie-cup-holder.png" >
+<img src="images/cup-holder-1.jpg" >
 Archie-Box
 ---
 
 A simple box to hold extra things. I want to print it later, as of now, I didn't print it. 
-
+<img src="images/archie-box.png" >
 Archie-Cup-Holder-2
 ---
 
 Another take on the cup holder, not yet printed it. 
+<img src="images/archie-holder-2.png" >
