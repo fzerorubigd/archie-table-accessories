@@ -1,6 +1,6 @@
 TARGET = archie-all.zip
 
-all: archie-cup-holder archie-holder-2 archie-box
+all: archie-cup-holder archie-holder-2 archie-box archie-token-cards
 	@echo Done!
 
 zip: clean all

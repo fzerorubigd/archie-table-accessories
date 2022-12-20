@@ -1,7 +1,7 @@
 include <archie-base.scad>;
 
-depth = 160;
-box = 160;
+depth = 170;
+box = 170;
 height = 50;
 wall_thick = 7;
 
