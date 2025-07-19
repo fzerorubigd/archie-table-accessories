@@ -6,6 +6,7 @@ height = 20;
 
 hole_depth = 12;
 hole_width = 4;
+
 difference() {
     difference() {
         base_box(box, depth, height);

@@ -6,7 +6,7 @@ box = 30;
 height = 30;
 dm = 100 + 2 * thick;
 
-$fn = 150;
+//$fn = 150;
 difference()
 {
 	union()

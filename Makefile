@@ -1,5 +1,5 @@
 TARGET = archie-all.zip
-
+FN = 100
 all: archie-cup-holder archie-holder-2 archie-box archie-token-cards archie-reduced-cup-holder
 	@echo Done!
 
